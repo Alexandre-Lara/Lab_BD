@@ -1,9 +1,12 @@
 Yago Arroyo21/04/2016 - 14:10
-Todas as aulas de uma turma são em um mesmo local ou uma turma com aulas ministradas em dias e/ou horários diferentes podem ser ministradas em mais de um local diferente?
+Todas as aulas de uma turma são em um mesmo local ou uma turma com aulas ministradas em dias 
+e/ou horários diferentes podem ser ministradas em mais de um local diferente?
 
 Yago Arroyo21/04/2016 - 15:17
-Deve-se manter o número de vagas, número mínimo e máximo de inscritos para cada turma? Existe um procedimento a se cumprir caso uma turma não atinja o número mínimo de vagas?
-Se a oferta de uma turma for cancelada, deve-se apagá-la totalmente do sistema ou mantê-la, adicionando um campo dizendo que a oferta foi cancelada?
+Deve-se manter o número de vagas, número mínimo e máximo de inscritos para cada turma? 
+Existe um procedimento a se cumprir caso uma turma não atinja o número mínimo de vagas?
+Se a oferta de uma turma for cancelada, deve-se apagá-la totalmente do sistema ou mantê-la, 
+adicionando um campo dizendo que a oferta foi cancelada?
 
 
 Yago Arroyo21/04/2016 - 14:19
@@ -11,11 +14,14 @@ Devemos guardar notas e/ou outras informações sobre cada disciplina/turma curs
 
 
 Yago Arroyo21/04/2016 - 14:26
-A unidade federativa a ser armazenada é a de nascimento ou residência do aluno? Deve-se considerar este campo para alunos nascidos em outros países?
+A unidade federativa a ser armazenada é a de nascimento ou residência do aluno? 
+Deve-se considerar este campo para alunos nascidos em outros países?
 
 
 Yago Arroyo21/04/2016 - 14:27
-Quais são as possibilidades para preenchimento do campo sexo? Devem-se considerar apenas Masculino e Feminino, ou devem-se considerar outras opções, como transgêneros e assexuados? Se forem consideradas as outras opções, devemos armazenar a opção completa ou apenas categorizá-la como “Outros”?
+Quais são as possibilidades para preenchimento do campo sexo? Devem-se considerar apenas Masculino
+e Feminino, ou devem-se considerar outras opções, como transgêneros e assexuados? Se forem 
+consideradas as outras opções, devemos armazenar a opção completa ou apenas categorizá-la como “Outros”?
 
 Yago Arroyo21/04/2016 - 14:29
 Quais as possibilidades para preenchimento do campo cor/raça?
@@ -28,7 +34,8 @@ Alexandre Lara26/04/2016 - 17:59
 Quantos e-mails o sistema deve ser capaz de armazenar, quantidade máxima e mínima ?
 
 Yago Arroyo21/04/2016 - 15:26
-Deve-se ser mantida apenas uma lista de alunos deferidos/indeferidos por turma, ou deve-se manter uma lista por fase de inscrição?
+Deve-se ser mantida apenas uma lista de alunos deferidos/indeferidos por turma, 
+ou deve-se manter uma lista por fase de inscrição?
 
 
 José Vitor23/04/2016 - 15:45
