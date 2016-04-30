@@ -1,0 +1,35 @@
+1. O IRA deve ser guardado? 
+
+2. Qual o número mínimo e máximo de cursos no qual uma disciplina pode ser ofertada?
+
+3. O sistema deve guardar informações sobre Cursos? Se sim, quais?
+
+4. Caso exista uma equipe de apoio no plano de ensino, quais informações devem ser guardadas sobre ela?
+
+5. Para cada plano de ensino deve ser guardado a distribuição de horas, topicos abordados na disciplina, atividades e atividade em EAD. Para cada uma dessas informações deve ser guardado uma lista contendo uma breve descrição do que se refere cada atividade, e o numero de horas destinadas a cada atividade? Se não forem as informações citadas, quais são as informações que deverão ser guardadas em cada item?
+
+6. A Unidade federativa guardada para cada aluno se refere ao local de nascimento?
+
+7. Para cada aluno deverão ser guardados no mínimo/máximo quantos e-mail(s)?
+
+8. Para cada docente deve-se manter um historico sobre o alívio de carga didática?
+
+9. Deverão ser armazenadas informações para técnicos administrativos? se Sim, quais?
+
+10.Quais informações deverão ser guardadas referentes aos cargas administrativos, nos quais cada docente/tecnico administrativo pode assumir?
+
+11. Quais informações deverão ser guardadas sobre cada conselho de departamento?
+
+12. Após o periodo de inscrições, as informações geradas pela lista de inscrições irão ser usadas de alguma forma? Qual?
+
+13. Arespeito do documento de posse para cada membro do conselho, deve ser armazenado o proprio documento, ou alguma outra informação?
+
+14. Como deverão ser estruturados para o armazenamento, os documentos das reuniões?
+
+15. Quais informações deverão ser guardadas sobre as reunião? 
+
+16. Em quais momentos são feitos o calculo do IRA?
+
+17. Uma turma pode ser indicada para mais de um curso?
+
+
